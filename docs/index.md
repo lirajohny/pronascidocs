@@ -28,3 +28,6 @@
 > Solicitar na SAD.  
 - Declaração de exercício de atividade típica de segurança pública, emitida pela chefia imediata, conforme Modelo do Anexo IV do Edital n.º 16/2024.
 > Solicitar na SAD.  
+
+## Calendário
+![imagem](assets/cronograma)
