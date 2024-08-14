@@ -31,3 +31,11 @@
 
 ## Calendário
 ![imagem](assets/cronograma.png)
+
+## Modelos
+### ANEXO II - MODELO DE CERTIDÃO DA CORREGEDORIA/UNIDADE CORREICIONAL
+![mod1](assets/mod1.png)
+### ANEXO III - MODELO DE CERTIDÃO DE TEMPO DE SERVIÇO
+![mod2](assets/mod2.png)
+### ANEXO IV - MODELO DE DECLARAÇÃO DE EXERCÍCIO DE ATIVIDADE TÍPICA
+![mod3](assets/mod3.png)
