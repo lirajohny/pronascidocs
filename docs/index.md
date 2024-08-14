@@ -30,4 +30,4 @@
 > Solicitar na SAD.  
 
 ## Calendário
-![imagem](assets/cronograma)
+![imagem](assets/cronograma.png)
