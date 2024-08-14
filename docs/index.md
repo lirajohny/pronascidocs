@@ -3,7 +3,7 @@
 - [certidoes negativas gov](https://www.gov.br/pf/pt-br/assuntos/armas/normativos/certidoes-criminais-negativas)
 - [site Pronasci gov](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/pronasci/bolsa-formacao/bolsa-formacao-2024)
 - [Login senasp](https://seguranca.sinesp.gov.br/sinesp-seguranca/login.jsf)
---- 
+
 # Documentos Necessários
 - [Certidão Negativa](https://certidoes.trf2.jus.br/certidoes/#/principal/solicitar) de Antecedentes Criminais da Justiça Federal;
 
@@ -30,7 +30,6 @@
 - Declaração de exercício de atividade típica de segurança pública, emitida pela chefia imediata, conforme Modelo do Anexo IV do Edital n.º 16/2024.
 > Solicitar na SAD.  
 
----
 ## Calendário
 ![imagem](assets/cronograma.png)
 
