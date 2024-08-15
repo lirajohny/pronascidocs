@@ -19,6 +19,7 @@
 > Finalidade: Min. da Justiça.
 
 > Descrição da finalidade: projeto Bolsa-Formação do Programa Nascional de Segurança Pública com Cidadania (Pronasci)
+
 - Certidão Negativa de Antecedentes Criminais da Justiça Militar Estadual de 1ª e 2ª instâncias (Local de Moradia);
 > Caso trabalhe no mesmo estado em que mora é só utilizar o documento acima.  
 	
